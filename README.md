@@ -55,10 +55,9 @@ Practices of **data analysis** and breakdown, as well as **presentations** and
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kaue-cruz123&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaue-cruz123&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=kaue-cruz123&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kaue-cruz123&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
 </p>
-
 ---
 
 ## 🚀 Philosophy
